@@ -11,7 +11,9 @@ You will have to memorize the layout of the map, it does not change between game
 ### Challenge:
 What is the lowest amount of moves necessary to beat the game?
 
-Map Layout:
+
+
+### Map Layout:
 <details>
   <summary>SPOILERS</summary>
 
