@@ -1,4 +1,4 @@
-## This application is a simple text-based game writted in Python.
+## This Python application is a simple text-based game.
 
 ### Game Description:
 You are the commander of a small group of elite trained soldiers that have been cut off from your main force and are low on ammunition and supplies. There is a large enemy ground force stationed on the battlefield nearby that you will have to defeat blocking your path to the friendly forces. Under the cover of night, your team needs to move quickly and quietly throughout the area to gather supplies to be strong enough to fight the enemy force. Should your forces not retrieve all the supplies, they will direly be outnumbered and outgunned by the enemy. To win, you will need to move your troops and retrieve equipment laid around the battlefield following the most recent force on force conflict. 
