@@ -16,6 +16,7 @@ Map Layout:
   <summary>SPOILERS</summary>
 
   ```
-  ![alt text](https://github.com/CHenshaw010/Text-Based-Game/blob/main/Game_Map.png "Map Layout")
+  ![Game_Map](https://github.com/CHenshaw010/Text-Based-Game/assets/103648617/574be0f8-9944-471e-937b-f11d0305f721)
+
   ```
 </details>
